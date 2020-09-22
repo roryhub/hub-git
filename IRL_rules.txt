@@ -1,0 +1,68 @@
+Matthew Dunstan & Rory O’Connor
+IRL (In Real Life)
+Players: 2-4 players | Time: 30-45 min | Ages: 10+
+
+RULES
+ 
+Introduction
+Components
+•	XX Cards:
+o	XX Scenarios (larger)
+o	XX Events
+o	XX Life Goals
+o	XX Struggles
+o	XX Opportunities
+o	XX Items
+o	4 Reminder cards
+•	XX Tokens:
+o	XX Contentment
+o	XX Exhaustion
+o	XX Energy
+o	XX Neutral
+o	XX Guilt
+o	XX Shame
+o	XX Anger
+o	XX Fear
+•	XX Time tokens (in each player colour)
+•	XX Money
+•	4 Bags
+•	1 Board
+
+Setup
+1.	Place the board in the centre of the table. Shuffle the Item and Opportunity decks and place them to the side of the board. Deal out the top 3 cards from each deck onto their respective places.
+2.	Prepare an Event deck for each player. Deal XX event cards into a personal deck in front of a player, face down.
+3.	Give each player a Job card, which they place face up in front of them, and a number of time tokens (in their colour) and money as indicated on that card.
+4.	Give each player a Life Goal and a Struggle.
+5.	Each player takes a bag, and places the following tokens in it: 3 Neutral, 1 Energy, and 2 random negative tokens.
+6.	The players choose which scenario they are playing and setup accordingly.
+Aim of the game
+The players work together. Before the scenario ends, each player must either:
+•	Achieve their personal goal
+•	Overcome their Struggle
+•	Be content (draw 5 or more Contentment in a single turn)
+
+Once all players have achieved one of these, they win together. If the scenario ends before this, they lose.
+How to play
+The game is played in rounds. Each round, players first gain time and money as indicated on their job card. They also carry out any ‘start of turn’ effects. Then they draw 3 tokens from their bag. 
+
+Different tokens have different effects:
+
+•	Neutral: no effect
+•	Energy: gain 1 extra time
+•	Contentment: immediately draw another token. If you draw 5 or more Contentment in a single turn, you win
+•	Exhaustion: lose 1 time
+•	Anger: no effect, unless you draw 3 or more Anger. If you do, discard them and gain 1 Guilt and 1 Shame
+•	Guilt: Some actions are not available to you this round
+•	Fear: Opportunities cost 1 extra time
+•	Shame: Other players cannot give you money or time this round
+•	Resilience: Cancel the effect of one other token
+
+Once all token effects have been resolved, each player draws the top card of their Event deck, and resolves it. Some events stay in play until they are dealt with.
+
+Then all players take actions, which involve spending time and/or money. These can be acquiring cards from the central board (Items or Opportunities), or taking common actions. They place the spent time on these spaces to show they have been taken.
+
+Players can lend their time and/or money to other players. If they lend at least 2 time to a single player, add 1 Contentment to their bag.
+End of the game 
+When all players have achieved a Victory condition, all players win together. If the Scenario ends and they haven’t achieved this, they lose.
+
+
